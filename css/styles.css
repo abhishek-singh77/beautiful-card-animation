@@ -46,7 +46,6 @@ p{
 .card-1:hover{
     z-index: 3;
     top: -40%;
-    transform: scale(5);
 }
 
 .card-1{
