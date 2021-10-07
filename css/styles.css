@@ -51,7 +51,7 @@ p{
 .card-1{
     width: 100%;
     height: 100%;
-    background-color: hsl(31, 77%, 52%);
+    background-color: #bcece0;
     position: absolute;
     top: -25%;
     z-index: 3;
@@ -68,7 +68,7 @@ p{
 .card-2{
     width: 100%;
     height: 100%;
-    background-color: hsl(184, 100%, 22%);
+    background-color: #36eee0;
     position: absolute;
     top: 25%;
     right: 25%;
@@ -86,7 +86,7 @@ p{
 .card-3{
     width: 100%;
     height: 100%;
-    background-color: hsl(179, 100%, 13%);
+    background-color: #4c5270;
     position: absolute;
     top: 25%;
     left: 25%;
