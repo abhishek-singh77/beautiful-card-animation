@@ -33,7 +33,7 @@ p{
     align-items: center;
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(45deg,pink,purple);
+    background-image: linear-gradient(45deg,#3d64ae,#b00e0e);
 }
 
 .main{
@@ -51,7 +51,7 @@ p{
 .card-1{
     width: 100%;
     height: 100%;
-    background-color: #bcece0;
+    background-color: #4ad293;
     position: absolute;
     top: -25%;
     z-index: 3;
@@ -68,7 +68,7 @@ p{
 .card-2{
     width: 100%;
     height: 100%;
-    background-color: #36eee0;
+    background-color: #0c5ba2;
     position: absolute;
     top: 25%;
     right: 25%;
@@ -86,7 +86,7 @@ p{
 .card-3{
     width: 100%;
     height: 100%;
-    background-color: #4c5270;
+    background-color: #db631a;
     position: absolute;
     top: 25%;
     left: 25%;
